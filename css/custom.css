@@ -50,10 +50,10 @@ header .header-content {
 
 header .header-content .header-content-inner h1 {
     margin-top: 0;
-    margin-bottom: 15px;
-    font-size: 20px;
+    margin-bottom: 20px;
+    font-size: 16px;
     font-weight: 300;
-	color: rgba(255,255,255,.99);
+    color: rgba(255,255,255,.99);	
 }
 
 header .header-content .header-content-inner p {
